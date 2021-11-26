@@ -1,0 +1,114 @@
+.homeContainer{
+    margin: 40px 20px 85px ;   
+}
+
+.displayed{
+    display: inline-block;
+    margin: 20px;
+}
+
+.movieInfoContainer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 60px;
+}
+.image img{
+    margin-top: 25px;
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+}
+.header{
+    background-color: black;
+    color: wheat;
+    padding: 20px 0px;
+    margin-right: 24px;
+    border-radius: 14px;
+}
+.goBack{
+    background-color: dimgrey;
+    padding: 25px;
+    margin: 20px 180px;
+    border-radius: 20px;
+}
+
+.abourHeader{
+    float: left;
+}
+.paragraph{
+font-size: 18px;
+    font-family: revert;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.divButton{
+    background: #007bff;
+    padding: 9px;
+    border-radius: 8px;
+    color: wheat;
+    width: 140px;
+    text-decoration: none;
+    
+}
+.notFound{
+    font-size: 23px;
+    font-weight: 800;
+    margin: auto;
+    margin-top: 100px;
+    background-color: wheat;
+    padding: 4% 8%;
+    border-radius: 14px;
+    transition: opacity 0.5s ease-in-out;
+
+
+}
+.errormsg{
+    display: flex;
+    margin-top: 533px;
+    justify-content: flex-start;
+  
+}
+
+.ButtonContainer{
+    background-color: black;
+    margin-top: 4px;
+}
+
+.css-1gjgmky-MuiToggleButtonGroup-root .MuiToggleButtonGroup-grouped {
+    margin-left: 5px !important;
+    color: black;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.css-1gjgmky-MuiToggleButtonGroup-root .MuiToggleButtonGroup-grouped:first-of-type {
+    margin-left:0px !important
+
+}
+
+.css-1gjgmky-MuiToggleButtonGroup-root .MuiToggleButtonGroup-grouped{
+    background-color: gray !important;
+}
+.css-1ulh13c-MuiButtonBase-root-MuiToggleButton-root.Mui-selected {
+    color:whitesmoke !important;
+    background-color: black !important;
+}
+.css-1ulh13c-MuiButtonBase-root-MuiToggleButton-root:hover {
+    color:whitesmoke !important;
+    background-color: black !important;
+}
+form{
+    float: right;
+
+}
+.hieght{
+    opacity: 0;
+}
+
+.fieldYear{
+    width: 60px;
+    border-radius: 5px;
+    padding: 9px 0px 9px 9px;
+    font-size: 15px;
+    font-weight: bold;
+}

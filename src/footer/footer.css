@@ -1,0 +1,21 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.footerContainer{
+    background-color: black;
+    text-align: center;
+    font-style: oblique; 
+    position: absolute;
+    color: white;
+    left: 0;
+    bottom: 0;
+    height: 70px;
+    width: 100%;
+    overflow: hidden;
+}
+.text{
+    padding-top: 12px;
+    letter-spacing: 3px;
+}
